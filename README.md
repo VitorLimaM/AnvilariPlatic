@@ -83,5 +83,5 @@ src/
 
 ## Author
 
-[Your Name]
+[Vitor Lima]
 Front‑End Developer
